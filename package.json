@@ -1,0 +1,26 @@
+{
+  "name": "thirteen_node_express_hamburger",
+  "version": "1.0.0",
+  "description": "app for tracking burgers eaten and future devours",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whitneybroadfoot/Thirteen_Node_Express_Hamburger.git"
+  },
+  "keywords": [
+    "handlebar",
+    "mysql",
+    "node",
+    "express"
+  ],
+  "author": "whitney broadfoot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whitneybroadfoot/Thirteen_Node_Express_Hamburger/issues"
+  },
+  "homepage": "https://github.com/whitneybroadfoot/Thirteen_Node_Express_Hamburger#readme"
+}
