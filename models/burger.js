@@ -16,3 +16,11 @@ var burger = {
       cb(res);
     });
   },
+  delete: function(cb) {
+    orm.delete("burgers", function(res) {
+      cb(res);
+    });
+  }
+};
+
+module.exports = burger;
