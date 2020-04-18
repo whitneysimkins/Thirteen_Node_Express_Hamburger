@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/whitneybroadfoot/Thirteen_Node_Express_Hamburger/issues"
   },
-  "homepage": "https://github.com/whitneybroadfoot/Thirteen_Node_Express_Hamburger#readme"
+  "homepage": "https://github.com/whitneybroadfoot/Thirteen_Node_Express_Hamburger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
