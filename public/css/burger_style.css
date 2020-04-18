@@ -9,6 +9,8 @@ h2 {
 h1 {
     background-color: purple;
     color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
 }
 
 button {
