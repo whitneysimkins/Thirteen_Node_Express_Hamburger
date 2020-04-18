@@ -1,3 +1,22 @@
+body {
+    background-color: bisque;
+}
+
 h2 {
-    background-color: pink;
+    background-color: hotpink;
+}
+
+h1 {
+    background-color: purple;
+    color: white;
+}
+
+button {
+    background-color: black;
+    color: white;
+}
+
+.btn {
+    background-color: black;
+    color: white;
 }
