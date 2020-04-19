@@ -1,5 +1,6 @@
 body {
-    background-color: bisque;
+    background-image: url("../assets/burger.jpg");
+    background-color: #cccccc;
 }
 
 h2 {
@@ -21,4 +22,4 @@ button {
 .btn {
     background-color: black;
     color: white;
-}
+ }
